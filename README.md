@@ -1,7 +1,12 @@
-# take_hometask
+# 🗂️ Bash Script: File Organizer by Type
 
-## A copy of my bash script
+This Bash script automatically organizes files in the current directory into subdirectories based on their file types (`.txt`, `.sh`, and `.log`).
 
+---
+
+## 📌 Script
+
+```bash
 #!/bin/bash
 
 # Create organized folders if they don't exist
@@ -19,5 +24,3 @@ for file in *; do
 done
 
 echo "✅ Files organized by type into ./organized"
-
-
