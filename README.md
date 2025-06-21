@@ -1,4 +1,4 @@
-# 🗂️ Bash Script: File Organizer by Type
+## 🗂️ Bash Script: File Organizer by Type
 
 This Bash script automatically organizes files in the current directory into subdirectories based on their file types (`.txt`, `.sh`, and `.log`).
 
